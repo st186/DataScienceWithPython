@@ -38,6 +38,8 @@ The key features of numpy are:
     Vectorization: enables numeric operations on ndarrays.
     Input/Output: simplifies reading and writing of data from/to file.
 
+Check out my numpy notebook for some hands on session.Follow this link-https://github.com/st186/DataScienceWithPython/blob/master/Numpy_Notebook.ipynb
+
 pandas is a Python library for data analysis. It offers a number of data exploration, cleaning and transformation operations that are critical in working with data in Python.
 
 pandas build upon numpy and scipy providing easy-to-use data structures and data manipulation functions with integrated indexing.
@@ -50,3 +52,4 @@ The main data structures pandas provides are Series and DataFrames. After a brie
     Merging multiple datasets using dataframes
     Working with timestamps and time-series data
 
+Check out my pandas notebook for some hands on session.Follow this link-https://github.com/st186/DataScienceWithPython/blob/master/Pandas_Intro.ipynb
