@@ -26,3 +26,27 @@ These steps for any data science project which you will work in future-
 4. **Analysis of Data**- This is the step where the Machine Learning algorithms come into picture.We will apply machine learning algorithms on the dataset we are having and then predict the accuracy of the model.
 
 5. **Report**- This is the last step where we report the outcome of the model.Like we suggest the list of similar movies upon his past movie experience.
+
+There are two packages in Python which will be very useful in you Data Science Journey.These packages are-Pandas and Numpy.
+
+Numerical Python, or "Numpy" for short, is a foundational package on which many of the most common data science packages are built. Numpy provides us with high performance multi-dimensional arrays which we can use as vectors or matrices.
+
+The key features of numpy are:
+
+    ndarrays: n-dimensional arrays of the same data type which are fast and space-efficient. There are a number of built-in methods for ndarrays which allow for rapid processing of data without using loops (e.g., compute the mean).
+    Broadcasting: a useful tool which defines implicit behavior between multi-dimensional arrays of different sizes.
+    Vectorization: enables numeric operations on ndarrays.
+    Input/Output: simplifies reading and writing of data from/to file.
+
+pandas is a Python library for data analysis. It offers a number of data exploration, cleaning and transformation operations that are critical in working with data in Python.
+
+pandas build upon numpy and scipy providing easy-to-use data structures and data manipulation functions with integrated indexing.
+
+The main data structures pandas provides are Series and DataFrames. After a brief introduction to these two data structures and data ingestion, the key features of pandas this notebook covers are:
+
+    Generating descriptive statistics on data
+    Data cleaning using built in pandas functions
+    Frequent data operations for subsetting, filtering, insertion, deletion and aggregation of data
+    Merging multiple datasets using dataframes
+    Working with timestamps and time-series data
+
