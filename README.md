@@ -53,3 +53,12 @@ The main data structures pandas provides are Series and DataFrames. After a brie
     Working with timestamps and time-series data
 
 Check out my pandas notebook for some hands on session.Follow this link-https://github.com/st186/DataScienceWithPython/blob/master/Pandas_Intro.ipynb
+
+Now we have learnt the basics of pandas and numpy and now we will look at Matplotlib library and do some basic exercises.In this exercise we will be doing the following things-
+
+1. Plotting the data points.
+2. Use Mask to filter out some attributes and create nd arrays.
+3. Finding correlation between different features.
+4. Using Histograms to explore distribution of values.
+
+Please refer to this link-https://github.com/st186/DataScienceWithPython/blob/master/Matplotlib_Intro.ipynb for the Matplotlib tutorial.Please go through it to know the basics of this useful library.
