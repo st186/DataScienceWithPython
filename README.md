@@ -10,8 +10,6 @@ What is Data Science?
 
 Data Science is basically the science behind the data.The data is processed through scientific methods to make some predictions by visualizing it.
 
-**Note-We will not be dealing with Machine Learning algorithms in details now.You can refer to my github link- for Machine Learning Tutorials.**
-
 Language suitable for Data Science are *Python,R* and other languages.But I will prefer to use *Python* as it has got extensive libraries for data science.
 
 
