@@ -54,7 +54,7 @@ Check out my pandas notebook for some hands on session.Follow this link-https://
 
 Now we have learnt the basics of pandas and numpy and now we will look at Matplotlib library and do some basic exercises.In this exercise we will be doing the following things-
 
-1. Plotting the data points.
+1. Plotting the data points-bar plot and line plot.
 2. Use Mask to filter out some attributes and create nd arrays.
 3. Finding correlation between different features.
 4. Using Histograms to explore distribution of values.
