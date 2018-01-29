@@ -91,3 +91,23 @@ So the answer to that question is that we will first fit and then transform the 
 Please follow my jupyter notebook for this session's tutorial on this link-https://github.com/st186/DataScienceWithPython/blob/master/Data_Preprocessing_Template.ipynb
 
 This is the end of the second session for now.In the next session we will be working with Regression.Thanks for now.See you then, bye.
+
+**Session III**
+
+Now today we will discuss about **Linear Regression**.Linear Regression aims at fitting the best line to represent the data points in dataset.We will be looking at the dataset which contains feature years of experience into account and calculate the salary of the person.So we will try to fit the best line which will predict the salary correctly.
+
+In Machine Learning a model can accurately predict on train data but may be give wrong assumptions in test data,this is often referred as **Overfitting**.In this example we have used cross validation of sklearn library to divide the dataset into train and test data.We will keep a ratio of 1:3 for test:train.
+
+We will use a visualizing tool matplotlib to visualizing the model fitting.You can learn more through my jupyter notebook on this link-https://github.com/st186/DataScienceWithPython/blob/master/Linear_Regression.ipynb
+
+Now lets visualize the plot from this model-
+
+![alt tag](https://github.com/st186/DataScienceWithPython/blob/master/Images/Firefox_Screenshot_2018-01-29T12-28-36.345Z.png)
+
+So in this plot,the red dots are the datapoints and the blue line fits the train data accurately.
+
+![alt tag](https://github.com/st186/DataScienceWithPython/blob/master/Images/Firefox_Screenshot_2018-01-29T12-22-57.248Z.png)
+
+So in this plot the red dots again are the datapoints and the blue line fits the test data accurately.
+
+So this was Session III,hope you have liked it.See you then bye.
