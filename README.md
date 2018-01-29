@@ -102,7 +102,7 @@ We will use a visualizing tool matplotlib to visualizing the model fitting.You c
 
 Now lets visualize the plot from this model-
 
-![alt tag](https://github.com/st186/DataScienceWithPython/blob/master/Images/Firefox_Screenshot_2018-01-29T12-28-36.345Z.png)
+![alt tag](https://github.com/st186/DataScienceWithPython/blob/master/Images/Firefox_Screenshot_2018-01-29T12-40-31.268Z.png)
 
 So in this plot,the red dots are the datapoints and the blue line fits the train data accurately.
 
